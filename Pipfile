@@ -6,7 +6,8 @@ name = "pypi"
 
 
 [packages]
-
+requests = {}
+time = {}
 
 [dev-packages]
 
